@@ -1,0 +1,10 @@
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab02\Lab02\bin\Debug\Lab02.exe.config
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab02\Lab02\bin\Debug\Lab02.exe
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab02\Lab02\bin\Debug\Lab02.pdb
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab02\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab02\Lab02\obj\Debug\Lab02.Form1.resources
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab02\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab02\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab02\Lab02\obj\Debug\Lab02.exe
+D:\04_TuanNDT\Hutech\Thực Hành Lập Trình Windows\Lab02\Lab02\obj\Debug\Lab02.pdb
